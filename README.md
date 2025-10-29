@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Miguel Díaz Samper (commonly known as bitem), <br>a passionate video game developer with a strong technical (and artistic) background. <br>I specialise in programming, gameplay mechanics, and development using <br>Unity and Unreal Engine.<br><br>Go check my web out for further information! bitemdev.com
+Hi there! I'm Miguel Díaz Samper (commonly known as bitem), <br>a passionate video game developer with a strong technical (and artistic) background. <br>I specialise in programming, gameplay mechanics, and development using <br>Unity and Unreal Engine.<br><br>Go check my web out for further information! -> [https://bitemdev.com](https://www.bitemdev.com/)
 
 
 ## 🌐 Socials:
