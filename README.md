@@ -1,64 +1,90 @@
-<div align="center">
+# Hi, I'm Miguel Diaz Samper
 
-# ⚔️ bitemdev
-**Tech Artist | Gameplay & Tools Programmer**
+Gameplay Programmer and Tools Programmer based in Spain, open to full-time roles and relocation.
 
----
+I work mainly with Unity and C#, with a focus on gameplay systems, editor tooling, UI, persistence, procedural generation, and applied AI. I like building things that are easy to test, easy to extend, and useful to the people working with them.
 
-*"I infinitely prefer building games to playing them."*
+## What I Do
 
-[Portfolio](https://www.bitemdev.com/) • [LinkedIn](https://www.linkedin.com/in/miguel-d%C3%ADaz-samper/) • [Twitter/X](https://x.com/bitemgamedev)
+- Gameplay systems and player-facing logic
+- Unity editor tools and production workflows
+- UI implementation and interaction flow
+- Save/load, state ownership, and build support
+- Procedural generation with deterministic behavior
+- Applied AI prototypes and LLM-supported game systems
 
-</div>
+## Selected Work
 
-## 🖋️ My Lore
-My journey began in the blocky survival nights of **Minecraft**, where I transitioned from a fierce PvP competitor to a technical engineer building complex automation. Raised on a diet of **Inazuma Eleven** and **Pokémon**, I discovered a singular truth: my passion lies in the architecture of the experience rather than the play itself.
+### Heredero del Oficio
 
-I am known for a relentless work ethic and a "sink my teeth in" approach to development. Whether it’s engineering purpose-driven tools or crafting narrative experiences, I am driven by the thrill of problem-solving—often working through the night to bring a prototype to life.
+Commissioned 2D graphic adventure developed through a university initiative for L'Alcora Town Council.
 
----
+My work covered gameplay systems, UI, bug fixing, and day-to-day production coordination. The project was delivered successfully and received both the Audience Award for Best Video Game and Game with the Most Potential recognition.
 
-## 🛠️ My Capabilities
+[Play on itch.io](https://bitem.itch.io/heredero-del-oficio)
 
-### ⚙️ Core Programming & Systems
-*Precision-driven gameplay and tools development.*
+### Unity Multimodal PCG Framework
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white)
+Solo final degree project built as a reusable Unity Package Manager package.
 
-### 🎨 Technical Art & Design
-*Bridging the gap between technical complexity and artistic vision.*
+It includes interchangeable generators, a mesh pipeline, editor setup automation, deterministic regeneration, save/load support, benchmark export, pooled entities, procedural audio, Jobs, and Burst-oriented performance work.
 
-![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe](https://img.shields.io/badge/Creative_Cloud-000000?style=for-the-badge&logo=adobe&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-000000?style=for-the-badge&logo=krita&logoColor=white)
+[View repository](https://github.com/bitemdev/Unity-Multimodal-PCG)
 
----
+### Tricky Mansion
 
-## 🎯 My Mission
-My ultimate reward is the engagement of others. I forge systems, tools, and stories to:
-* **Educate:** Engineering purpose-driven software.
-* **Evoke:** Crafting narratives that leave lasting emotional marks.
-* **Challenge:** Building addictive arcade loops and high-score systems.
+Mobile horror game created in a 48-hour Unity game jam and later published on the Play Store.
 
----
+I worked on the gameplay loop, UI implementation, bug fixing, and mobile screen support.
 
-## 🌐 Connect
-If you wish to discuss a project or the intricacies of game architecture:
+[View on Google Play](https://play.google.com/store/apps/details?id=com.ChapayPinturaJorgeRal.TrickyMansion&pcampaignid=web_share)
 
-* **Email:** [bitemgamedev@gmail.com](mailto:bitemgamedev@gmail.com)
-* **Twitch:** [bitemdev](https://twitch.tv/bitemdev)
-* **Itch.io:** [bitemdev](https://bitem.itch.io/)
+### Narrative AI Internship Project
 
-<div align="center">
+Game Developer and Applied AI Intern at INIT - IA3 Applied Artificial Intelligence & Data Analysis.
 
-<br>
+From February 2026 to May 2026, I contributed 278 hours to an experimental narrative game supported by large language models. My work included gameplay flow, UI systems, save/load, central game-state refactors, prompt and context reliability work, and Windows/Android build support.
 
-![](https://visitcount.itsvg.in/api?id=bitemdev&icon=5&color=0)
+### OfflineTaskManager
 
-*Driven by the sheer thrill of development.*
-</div>
+Solo Unity/C# desktop task manager with a Kanban workflow, drag-and-drop interactions, and local JSON persistence.
+
+[View repository](https://github.com/bitemdev/OfflineTaskManager)
+
+### Narrative Spreadsheet Importer
+
+Unity Editor tool for importing structured Google Sheets narrative data into ScriptableObjects.
+
+The tool handles parsing, automatic type mapping, asset linking, and local asset generation for content pipelines.
+
+[View repository](https://github.com/bitemdev/com.bitemdev.narrative-importer)
+
+## Tech
+
+**Languages:** C#, C++, C, Python, TypeScript, JavaScript, Kotlin  
+**Engines and tools:** Unity, Unreal Engine, Git, Jira, React, Vite  
+**Areas:** Gameplay systems, tools programming, editor workflows, UI systems, procedural generation, persistence, applied AI
+
+## Recognition
+
+- Award for Academic Excellence - Universitat Jaume I
+- Audience Award for Best Video Game
+- Game with the Most Potential
+- Top Honours in the Science Baccalaureate
+- Cambridge English C1
+- Cisco Cybersecurity Certificate
+- Cisco Data Science Certificate
+- Physics-Informed Neural Networks seminar
+
+## How I Work
+
+I care about readable architecture, deterministic behavior, and gameplay code that can survive iteration. I build tools when they remove repeated manual work or make content pipelines more reliable, and I prefer simple systems with clear ownership over clever code that is hard to maintain.
+
+## Links
+
+- Portfolio: [bitemdev.com](https://www.bitemdev.com/)
+- GitHub: [github.com/bitemdev](https://github.com/bitemdev)
+- LinkedIn: [linkedin.com/in/miguel-diaz-samper](https://www.linkedin.com/in/miguel-d%C3%ADaz-samper/)
+- itch.io: [bitem.itch.io](https://bitem.itch.io/)
+- X: [@bitemgamedev](https://x.com/bitemgamedev)
+- Email: [bitemgamedev@gmail.com](mailto:bitemgamedev@gmail.com)
