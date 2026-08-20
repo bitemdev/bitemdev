@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.bitemdev.com/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/miguel-diaz-samper/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/miguel-d%C3%ADaz-samper/">LinkedIn</a> ·
   <a href="https://bitem.itch.io/">itch.io</a> ·
   <a href="https://x.com/bitemgamedev">X</a> ·
   <a href="mailto:contact@bitemdev.com">Email</a>
